@@ -1,0 +1,67 @@
+GITHUB PROFILE REDESIGN — SETUP GUIDE
+
+Your GitHub username:
+sainagaman0123-lang
+
+FILES
+- README.md: profile page content
+- assets/github-banner.png: AI-themed profile banner
+
+STEP 1 — CREATE THE SPECIAL PROFILE REPOSITORY
+1. Sign in to GitHub.
+2. Open https://github.com/new
+3. Set Repository name to exactly: sainagaman0123-lang
+4. Set it to Public.
+5. Select "Add a README file" if GitHub offers the option.
+6. Create the repository.
+   GitHub will identify it as your profile README repository.
+
+IMPORTANT:
+If this exact repository already exists, do not create another one.
+Open https://github.com/sainagaman0123-lang/sainagaman0123-lang instead.
+
+STEP 2 — UPLOAD THE FILES
+1. Open the special profile repository.
+2. Upload README.md to the repository root.
+3. Create an "assets" folder and upload github-banner.png inside it.
+   On GitHub's web interface, use Add file > Create new file and enter
+   assets/.gitkeep first if you need to create the folder, then upload
+   github-banner.png into assets.
+4. Commit the changes to the main branch.
+
+EASIER METHOD:
+Download the ZIP, extract it, then upload README.md and the assets folder
+together using GitHub's web upload flow or Git from a computer.
+
+STEP 3 — CUSTOMIZE YOUR PROFILE
+1. Open your GitHub profile and choose Edit profile.
+2. Update your bio if you want. Suggested bio:
+   B.Tech IT Student | Aspiring Software Developer | Exploring AI, Automation & Web Development
+3. Add your real LinkedIn and portfolio URLs in GitHub profile settings
+   if you have them. They are intentionally not guessed in this template.
+4. Pin your best repositories from the Repositories tab:
+   - blood-donor-management-system
+   - CodeAlpha_portfolio-site
+   - CodeAlpha_Image-Gallery
+   - CodeAlpha_Calculator
+   - codec_Technology_Student_Management_System
+   - Codec_Technology-port-folio-web
+
+STEP 4 — CHECK THE RESULT
+Open https://github.com/sainagaman0123-lang
+If the README does not appear, check that:
+- The repository name exactly matches your username.
+- The repository is Public.
+- README.md is in the root (not inside another folder).
+- The banner path is exactly assets/github-banner.png.
+
+NOTES
+- GitHub profile README supports Markdown and embedded images, not arbitrary
+  HTML/CSS/JavaScript. The native GitHub profile layout cannot be fully replaced.
+- The stats, streak, activity graph and profile-view images use third-party
+  badge/image services. They may load slowly, change appearance or be
+  temporarily unavailable.
+- Stats are generated from public GitHub activity; they are not hard-coded.
+- Your screenshots show 7 repositories, but only 6 names are readable.
+  The README includes those 6 and does not guess the seventh repository.
+- MediGuide is shown as a current project focus, not as a published repository.
